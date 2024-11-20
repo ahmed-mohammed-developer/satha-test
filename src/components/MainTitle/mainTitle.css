@@ -95,7 +95,7 @@
     margin-top: 5px;
   }
 }
-@media (max-width: 331px) {
+@media (max-width: 300px) {
 
 .phonemain {
   display: none; /* تعديل الحجم للشاشات الأصغر */

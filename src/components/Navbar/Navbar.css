@@ -53,14 +53,15 @@
     .navbar-nav {
          background-color: white; /* تغيير خلفية navbar-nav إلى الأبيض */ 
         color: black; /* تغيير لون النصوص إلى الأسود */ 
-        width: 100%; /* عرض كامل الشاشة */ 
+        width: 90%; /* عرض كامل الشاشة */ 
         position: fixed; /* تثبيت العنصر */ 
         top: 85px; /* محاذاة العنصر من الأعلى */ 
         left: 0; /* محاذاة العنصر من اليسار */ 
         height: fit-content; /* ارتفاع كامل الشاشة */ 
         z-index: 1000; /* تأكيد أن العنصر فوق العناصر الأخرى */
-        padding-right: 20px;
         padding-block: 30px;
+        text-align: center;
+        margin-inline: 20px;
      }
     .nav-link {
       font-size: 1rem; /* حجم النص على الشاشات المتوسطة */
