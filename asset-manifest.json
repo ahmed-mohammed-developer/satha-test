@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/satha-test/static/css/main.bb2db0ed.css",
+    "main.css": "/satha-test/static/css/main.b59b3410.css",
     "main.js": "/satha-test/static/js/main.6fb66d09.js",
     "static/js/453.14756e09.chunk.js": "/satha-test/static/js/453.14756e09.chunk.js",
     "static/media/7.png": "/satha-test/static/media/7.f55396a491ba3d11557b.png",
@@ -21,12 +21,12 @@
     "static/media/Tajawal-Regular.ttf": "/satha-test/static/media/Tajawal-Regular.e4ac0a5abb7d379e2308.ttf",
     "static/media/Tajawal-Black.ttf": "/satha-test/static/media/Tajawal-Black.20bb64985d298963909e.ttf",
     "index.html": "/satha-test/index.html",
-    "main.bb2db0ed.css.map": "/satha-test/static/css/main.bb2db0ed.css.map",
+    "main.b59b3410.css.map": "/satha-test/static/css/main.b59b3410.css.map",
     "main.6fb66d09.js.map": "/satha-test/static/js/main.6fb66d09.js.map",
     "453.14756e09.chunk.js.map": "/satha-test/static/js/453.14756e09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb2db0ed.css",
+    "static/css/main.b59b3410.css",
     "static/js/main.6fb66d09.js"
   ]
 }
