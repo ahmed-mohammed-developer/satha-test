@@ -33,7 +33,7 @@
   display: flex;
   flex-wrap: wrap;
   overflow-y: auto; /* تمكين التمرير العمودي */
-  height: 100%; /* يمكنك تعديل الارتفاع حسب الحاجة */
+  height: 20vh; /* يمكنك تعديل الارتفاع حسب الحاجة */
   margin-inline: 10px;
 }
 
