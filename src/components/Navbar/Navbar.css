@@ -1,4 +1,10 @@
-.navbar { background-color: transparent; position: absolute; top: 0; width: 100%; z-index: 3; /* التأكد من أن الشريط العلوي فوق باقي العناصر */ }
+.navbar { background-color: transparent;
+   position: absolute;
+    top: 0;
+     width: 100%;
+     margin-top: 30px;
+     margin-bottom: 50px;
+      z-index: 3; /* التأكد من أن الشريط العلوي فوق باقي العناصر */ }
   .logo {
     height: 50px;
     cursor: pointer;
