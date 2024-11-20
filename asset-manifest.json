@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/satha-test/static/css/main.7f160f53.css",
-    "main.js": "/satha-test/static/js/main.701aeabf.js",
+    "main.css": "/satha-test/static/css/main.86c6aae2.css",
+    "main.js": "/satha-test/static/js/main.a4bf6870.js",
     "static/js/453.14756e09.chunk.js": "/satha-test/static/js/453.14756e09.chunk.js",
     "static/media/7.png": "/satha-test/static/media/7.f55396a491ba3d11557b.png",
     "static/media/5.png": "/satha-test/static/media/5.47ac2ef3dcf6ea166a2b.png",
     "static/media/6.png": "/satha-test/static/media/6.4d50192e8f7e17af70aa.png",
+    "static/media/33.jpeg": "/satha-test/static/media/33.832e545c4883a9c05b9d.jpeg",
     "static/media/Cairo-Black.ttf": "/satha-test/static/media/Cairo-Black.fb862267eaaa2efeae32.ttf",
     "static/media/Cairo-ExtraBold.ttf": "/satha-test/static/media/Cairo-ExtraBold.167cd1c39d5a428091f4.ttf",
     "static/media/Cairo-SemiBold.ttf": "/satha-test/static/media/Cairo-SemiBold.d8b78813fbd864ab04c4.ttf",
@@ -24,12 +25,12 @@
     "static/media/3s.png": "/satha-test/static/media/3s.8fd41b013b542ae16703.png",
     "static/media/2s.png": "/satha-test/static/media/2s.0295b8bbd1197d8d21d3.png",
     "index.html": "/satha-test/index.html",
-    "main.7f160f53.css.map": "/satha-test/static/css/main.7f160f53.css.map",
-    "main.701aeabf.js.map": "/satha-test/static/js/main.701aeabf.js.map",
+    "main.86c6aae2.css.map": "/satha-test/static/css/main.86c6aae2.css.map",
+    "main.a4bf6870.js.map": "/satha-test/static/js/main.a4bf6870.js.map",
     "453.14756e09.chunk.js.map": "/satha-test/static/js/453.14756e09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f160f53.css",
-    "static/js/main.701aeabf.js"
+    "static/css/main.86c6aae2.css",
+    "static/js/main.a4bf6870.js"
   ]
 }
