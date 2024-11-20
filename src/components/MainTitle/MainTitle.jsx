@@ -29,15 +29,9 @@ function MainTitle() {
     <div className='container'>
       <div className="row">
       <div className='poneflex'> 
-        <p>
         <a className="phonemain" href="tel:0564686864">0564686864</a>
-        </p>
-        <p>
         <a className="phonemain" href="tel:0534555170">0534555170</a>
-        </p>
-        <p>
         <a className="phonemain" href="tel:0500686864">0500686864</a>
-        </p>
         </div>
         <span className='spanmain mb-2'></span>
       </div>
