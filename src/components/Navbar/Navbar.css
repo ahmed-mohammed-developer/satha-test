@@ -19,7 +19,6 @@
   }
   .navbar-toggler .fa-bars {
     color: #fff;
-    font-size: 0.8rem;
   }
   .navbar-toggler .fa-bars:hover {
     color: #fff;
@@ -61,6 +60,7 @@
         height: fit-content; /* ارتفاع كامل الشاشة */ 
         z-index: 1000; /* تأكيد أن العنصر فوق العناصر الأخرى */
         padding-right: 20px;
+        padding-block: 30px;
      }
     .nav-link {
       font-size: 1rem; /* حجم النص على الشاشات المتوسطة */

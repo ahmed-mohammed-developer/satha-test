@@ -41,7 +41,7 @@ function MainTitle() {
         </div>
         <span className='spanmain mb-2'></span>
       </div>
-        <h1 className='h1main mb-5 mt-5'>سطحة , العلم سلامتك </h1>
+        <h1 className='h1main mt-5'>سطحة , العلم سلامتك </h1>
         <div className="row rowdflex mb-5 mt-5">
         {sathe.map((item, index) => (
             <div className="col-lg-4 col-md-6 col-sm-6 boxmain" key={index}>
