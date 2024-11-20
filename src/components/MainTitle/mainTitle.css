@@ -45,6 +45,7 @@
   flex: 1 0 50%; /* تجعل العناصر تأخذ تقريبًا 3 أعمدة */
   box-sizing: border-box; /* لتجنب تجاوز الحدود */
   max-width: 33.333%; /* الحد الأقصى لعرض الأعمدة */
+  padding-block: 10px;
 }
 
 @media (max-width: 768px) {
