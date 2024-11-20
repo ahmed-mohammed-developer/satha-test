@@ -4,6 +4,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // تأكد من تضمين 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Head from './components/Head/Head';
 import Features from './components/Features/Features'
+import Weexist from './components/Weexist/Weexist';
 
 const theme = createTheme({
   typography: {
@@ -20,6 +21,7 @@ function App() {
       <div>
       <Head />
       <Features />
+      <Weexist />
       </div>
     </ThemeProvider>
   );
