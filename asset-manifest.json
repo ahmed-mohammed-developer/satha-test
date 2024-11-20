@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/satha-test/static/css/main.9b1fe934.css",
+    "main.js": "/satha-test/static/js/main.44b6f394.js",
+    "static/js/453.14756e09.chunk.js": "/satha-test/static/js/453.14756e09.chunk.js",
+    "static/media/7.png": "/satha-test/static/media/7.f55396a491ba3d11557b.png",
+    "static/media/5.png": "/satha-test/static/media/5.47ac2ef3dcf6ea166a2b.png",
+    "static/media/6.png": "/satha-test/static/media/6.4d50192e8f7e17af70aa.png",
+    "static/media/Cairo-Black.ttf": "/satha-test/static/media/Cairo-Black.fb862267eaaa2efeae32.ttf",
+    "static/media/Cairo-ExtraBold.ttf": "/satha-test/static/media/Cairo-ExtraBold.167cd1c39d5a428091f4.ttf",
+    "static/media/Cairo-SemiBold.ttf": "/satha-test/static/media/Cairo-SemiBold.d8b78813fbd864ab04c4.ttf",
+    "static/media/Cairo-Bold.ttf": "/satha-test/static/media/Cairo-Bold.d6131f35e4885ab019ba.ttf",
+    "static/media/Cairo-Medium.ttf": "/satha-test/static/media/Cairo-Medium.58deadbf05ef43abbdbd.ttf",
+    "static/media/Cairo-Regular.ttf": "/satha-test/static/media/Cairo-Regular.808e3fbf5cb27d719d6d.ttf",
+    "static/media/Cairo-Light.ttf": "/satha-test/static/media/Cairo-Light.a4c0dad2ad5c861adff9.ttf",
+    "static/media/Cairo-ExtraLight.ttf": "/satha-test/static/media/Cairo-ExtraLight.c1c9ac647cc0ba27e050.ttf",
+    "static/media/Tajawal-Medium.ttf": "/satha-test/static/media/Tajawal-Medium.39f6e7909da6851b0fca.ttf",
+    "static/media/Tajawal-Light.ttf": "/satha-test/static/media/Tajawal-Light.0b9c23dd8afee3e6ab60.ttf",
+    "static/media/Tajawal-Bold.ttf": "/satha-test/static/media/Tajawal-Bold.5225a40edb511ebac6f5.ttf",
+    "static/media/Tajawal-ExtraBold.ttf": "/satha-test/static/media/Tajawal-ExtraBold.a6895f8295995503f6b8.ttf",
+    "static/media/Tajawal-Regular.ttf": "/satha-test/static/media/Tajawal-Regular.e4ac0a5abb7d379e2308.ttf",
+    "static/media/Tajawal-Black.ttf": "/satha-test/static/media/Tajawal-Black.20bb64985d298963909e.ttf",
+    "index.html": "/satha-test/index.html",
+    "main.9b1fe934.css.map": "/satha-test/static/css/main.9b1fe934.css.map",
+    "main.44b6f394.js.map": "/satha-test/static/js/main.44b6f394.js.map",
+    "453.14756e09.chunk.js.map": "/satha-test/static/js/453.14756e09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b1fe934.css",
+    "static/js/main.44b6f394.js"
+  ]
+}
