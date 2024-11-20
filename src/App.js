@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // تأكد من تضمين هذا الملف
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Head from './components/Head/Head';
+import Features from './components/Features/Features'
 
 const theme = createTheme({
   typography: {
@@ -18,6 +19,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <div>
       <Head />
+      <Features />
       </div>
     </ThemeProvider>
   );

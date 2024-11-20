@@ -1,0 +1,57 @@
+
+.steps {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f5f7fa;
+}
+.section-title h2 {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 900;
+    font-family: "Tajawal", sans-serif;
+    font-size: 30px;
+    color: #121f3e;
+}
+.line {
+    display: block;
+    width: 70px;
+    height: 3px;
+    margin: 5px auto;
+    background-color: #1594ca;
+    margin-bottom: 50px;
+}
+.step-iconfet {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+.step-card {
+    height: 100%;
+    transition: all 0.3s ease;
+    padding: 20px;
+}
+.step-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+.setps .card-title {
+    font-family: "Tajawal";
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px; /* مسافة أسفل العنوان */
+}
+.feature-icon.color{
+    color: #121f3e;
+}
+.imgs {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+.w100 {
+    width: 150px !important;
+}
