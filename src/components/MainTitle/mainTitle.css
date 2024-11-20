@@ -1,0 +1,96 @@
+.poneflex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.phonemain {
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(93, 3, 3, 0.7); /* إضافة ظل للنص */
+    font-size: 35px;
+    font-family: "Tajawal";
+    cursor: pointer;
+    text-decoration: none;
+}
+.spanmain {
+    background-color: #dc3545;
+    text-shadow: 2px 2px 4px rgba(13, 12, 12, 0.7); /* إضافة ظل للنص */
+    max-width: 30%;
+    padding: 3px;
+    display: block;
+    margin-inline: auto;
+    margin-top: 10px;
+}
+.h1main {
+    margin-top: 15px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* إضافة ظل للنص */
+    font-size: 48px;
+    font-family: "Tajawal";
+}
+.rowdflex {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: auto; /* تمكين التمرير العمودي */
+  height: 100%; /* يمكنك تعديل الارتفاع حسب الحاجة */
+  margin-inline: 10px;
+}
+
+.boxmain {
+  border: 2px solid #fff;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  margin-inline: auto;
+  margin-block: 1px;
+  flex: 1 0 50%; /* تجعل العناصر تأخذ تقريبًا 3 أعمدة */
+  box-sizing: border-box; /* لتجنب تجاوز الحدود */
+  max-width: 33.333%; /* الحد الأقصى لعرض الأعمدة */
+}
+
+@media (max-width: 768px) {
+  .boxmain {
+    max-width: 50%; /* عرض الأعمدة على الشاشات الصغيرة */
+  }
+}
+
+@media (max-width: 480px) {
+  .boxmain {
+    max-width: 100%; /* عرض الأعمدة على الشاشات الأصغر */
+  }
+}
+
+.apmain {
+  text-decoration: none;
+  margin-top: 20px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* إضافة ظل للنص */
+  font-size: 18px;
+  line-height: 1.8;
+  font-family: 'Cairo', sans-serif; /* تأكد من إضافة نوع الخط كايرو */
+}
+@media (max-width: 770px) {
+  .h1main {
+    font-size: 36px; /* تعديل الحجم للشاشات الأصغر */
+  }
+  .apmain {
+    font-size: 16px; /* تعديل الحجم للشاشات الأصغر */
+  }
+  .phonemain {
+    font-size: 16px; /* تعديل الحجم للشاشات الأصغر */
+  }
+}
+@media (max-width: 500px) {
+    .h1main{
+        font-size: 28px; /* تعديل الحجم للشاشات الأصغر */
+        margin-top: 10px !important;
+    }
+  .apmain {
+    font-size: 14px; /* تعديل الحجم للشاشات الأصغر */
+  }
+  .phonemain {
+    font-size: 18px; /* تعديل الحجم للشاشات الأصغر */
+  }
+  .spanmain {
+    padding: 2px;
+    margin-top: 5px;
+  }
+}
