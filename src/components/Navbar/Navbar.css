@@ -6,7 +6,7 @@
      margin-bottom: 50px;
       z-index: 3; /* التأكد من أن الشريط العلوي فوق باقي العناصر */ }
   .logo {
-    height: 50px;
+    height: 70px;
     cursor: pointer;
 }
   .navbar-toggler {
