@@ -71,7 +71,7 @@ const Features = () => {
           ))}
         </div>
         <div className='btnservic'> 
-        <button type="button" className="btn btn-danger" style={{marginTop: "10px" }} onClick={() => window.location.href='tel:0506353350'}>اتصل بنا</button>
+        <button type="button" className="btn btn-danger" style={{marginTop: "10px" }} onClick={() => window.location.href='tel:0500686864'}>اتصل بنا</button>
         </div>
       </div>
     </div>
