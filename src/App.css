@@ -94,9 +94,10 @@ a {
   bottom: 40px;
   left: auto;
   right: 15px;
-  background-color: #223b40;
+  background-color: #0e2c3b;
   color: #FFF;
   border-radius: 50%;
   z-index: 1000;
+  transform: scaleX(-1);
 }
 

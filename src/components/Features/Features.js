@@ -18,7 +18,7 @@ const Features = () => {
     {
       id: 1,
       title: "سطحة هدروليك",
-      icon: <img src={img3s} alt="سطحة عادية" className="imgs w100" />, // استخدام الصورة المستوردة
+      icon: <img src={img3s} alt="سطحة هدروليك" className="imgs w100" />, // استخدام الصورة المستوردة
     },
     {
       id: 2,
@@ -28,27 +28,27 @@ const Features = () => {
     {
       id: 3,
       title: "سطحة غمارتين لنقل العوائل",
-      icon: <img src={img9s} alt="سطحة عادية" className="imgs" />, // استخدام الصورة المستوردة
+      icon: <img src={img9s} alt="سطحة غمارتين" className="imgs" />, // استخدام الصورة المستوردة
     },
     {
       id: 4, // تعديل الرقم المتكرر هنا من 3 إلى 4
       title: "توفير اشتراك متنقل كهربائي",
-      icon: <img src={img8s} alt="سطحة عادية" className="imgs w-100" />, // استخدام الصورة المستوردة
+      icon: <img src={img8s} alt="إشتراك كهربائي" className="imgs w-100" />, // استخدام الصورة المستوردة
     },
     {
       id: 5,
       title: "أجرة تاكسي للأفراد والعوائل",
-      icon: <img src={img6s} alt="سطحة عادية" className="imgs w-100" />, // استخدام الصورة المستوردة
+      icon: <img src={img6s} alt="أجرة تاكسي" className="imgs w-100" />, // استخدام الصورة المستوردة
     },
     {
       id: 6, // تعديل الرقم المتكرر هنا من 5 إلى 6
       title: "عجلات لجميع أنواع السيارات",
-      icon: <img src={img7s} alt="سطحة عادية" className="imgs w-100" />, // استخدام الصورة المستوردة
+      icon: <img src={img7s} alt="عجلات السيارات" className="imgs w-100" />, // استخدام الصورة المستوردة
     },
   ];
 
   return (
-    <div className="steps" id="featuresid">
+    <div className="steps" id="serviec">
       <div className="container">
         <div className="row">
           <div className="section-title">

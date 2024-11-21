@@ -27,11 +27,11 @@ function Weexist() {
   ];
 
   return (
-    <div className="background-section">
+    <div className="background-section" id='weexist'>
       <div className="container">
         <div className="row">
           <div className="section-title">
-            <h2 className='text-white'>أين تجددنا !</h2>
+            <h2 className='text-white'>أين تجدنا !</h2>
             <span className="line bg-white"></span>
           </div>
         </div>
@@ -48,7 +48,7 @@ function Weexist() {
                   onClick={() => window.location.href = `tel:${item.phone}`}
                   >
                   اتصل بنا
-                  <IoCallOutline className='call'/>
+                  <IoCallOutline className='iconwhy'/>
                   </button>
                 </div>
               </div>

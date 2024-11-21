@@ -1,0 +1,54 @@
+.post {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #e3e4e6;
+}
+.h1post {
+    font-family: "Tajawal";
+    margin-block: 20px;
+    text-align: center;
+    font-size: 3rem; /* حجم الخط */ 
+    font-weight: 700; /* وزن الخط */ 
+    line-height: 1.2; 
+}
+.imgpost {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;    
+}
+.h3post {
+    font-family: "Cairo", "Tajawal";
+    font-size: 2rem; /* حجم الخط للشاشات الكبيرة */
+     font-weight: 600; /* وزن الخط */ 
+     line-height: 1.3; /* ارتفاع السطر */ 
+}
+.lipost {
+    margin-right: 30px;
+}
+.apost {
+    font-family: "Cairo", "Tajawal";
+    font-size: 18px;
+    text-decoration: none !important;
+    color: #121f3e;
+}
+
+
+ @media (max-width: 992px) {
+     .h1post { font-size: 2.5rem; /* حجم الخط */ 
+        line-height: 1.3; /* ارتفاع السطر */ 
+    }
+    .h3post {
+         font-size: 1.75rem; /* حجم الخط للشاشات المتوسطة */
+          line-height: 1.4; /* ارتفاع السطر */ }
+ }
+    
+    /* تنسيق العنوان الرئيسي للشاشات الصغيرة */ 
+    @media (max-width: 576px) {
+         .h1post { font-size: 2rem; /* حجم الخط */ 
+            line-height: 1.4; /* ارتفاع السطر */
+         }
+         .h3post {
+            font-size: 1.5rem; /* حجم الخط للشاشات الصغيرة */ 
+            line-height: 1.5;
+         }
+        }
