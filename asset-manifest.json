@@ -1,12 +1,20 @@
 {
   "files": {
-    "main.css": "/satha-test/static/css/main.86c6aae2.css",
-    "main.js": "/satha-test/static/js/main.a4bf6870.js",
+    "main.css": "/satha-test/static/css/main.65248d7d.css",
+    "main.js": "/satha-test/static/js/main.3ba2ebe7.js",
     "static/js/453.14756e09.chunk.js": "/satha-test/static/js/453.14756e09.chunk.js",
     "static/media/7.png": "/satha-test/static/media/7.f55396a491ba3d11557b.png",
     "static/media/5.png": "/satha-test/static/media/5.47ac2ef3dcf6ea166a2b.png",
+    "static/media/logo3.png": "/satha-test/static/media/logo3.3b0474dc3c1d9d6d4d13.png",
     "static/media/6.png": "/satha-test/static/media/6.4d50192e8f7e17af70aa.png",
-    "static/media/33.jpeg": "/satha-test/static/media/33.832e545c4883a9c05b9d.jpeg",
+    "static/media/333.png": "/satha-test/static/media/333.b627578c9cd8a0cbcb61.png",
+    "static/media/4.jpeg": "/satha-test/static/media/4.b9c030b23346c9e485ef.jpeg",
+    "static/media/5.jpeg": "/satha-test/static/media/5.87a9a766fcb42a287396.jpeg",
+    "static/media/8.jpeg": "/satha-test/static/media/8.e1159a2c9e5be3e1a5e9.jpeg",
+    "static/media/7.jpeg": "/satha-test/static/media/7.265acd0b6a864e6d5cd1.jpeg",
+    "static/media/2.jpeg": "/satha-test/static/media/2.f4bdb2f0da2a5c6d3921.jpeg",
+    "static/media/1.jpeg": "/satha-test/static/media/1.3bcf98f6005f7953070e.jpeg",
+    "static/media/6.jpeg": "/satha-test/static/media/6.832e545c4883a9c05b9d.jpeg",
     "static/media/Cairo-Black.ttf": "/satha-test/static/media/Cairo-Black.fb862267eaaa2efeae32.ttf",
     "static/media/Cairo-ExtraBold.ttf": "/satha-test/static/media/Cairo-ExtraBold.167cd1c39d5a428091f4.ttf",
     "static/media/Cairo-SemiBold.ttf": "/satha-test/static/media/Cairo-SemiBold.d8b78813fbd864ab04c4.ttf",
@@ -23,14 +31,20 @@
     "static/media/Tajawal-Regular.ttf": "/satha-test/static/media/Tajawal-Regular.e4ac0a5abb7d379e2308.ttf",
     "static/media/Tajawal-Black.ttf": "/satha-test/static/media/Tajawal-Black.20bb64985d298963909e.ttf",
     "static/media/3s.png": "/satha-test/static/media/3s.8fd41b013b542ae16703.png",
+    "static/media/8w (5).png": "/satha-test/static/media/8w (5).7d86ad95d64bf7b9e274.png",
+    "static/media/10 (2).png": "/satha-test/static/media/10 (2).3cf2ccb261563a067498.png",
+    "static/media/9w.png": "/satha-test/static/media/9w.85258292d7390afe4e15.png",
+    "static/media/8w (2).png": "/satha-test/static/media/8w (2).3a7be033a69cd7f423d0.png",
+    "static/media/8w (1).png": "/satha-test/static/media/8w (1).954b1889e11e0bc4a8bd.png",
+    "static/media/8w (4).png": "/satha-test/static/media/8w (4).f81cbbc9eecedfb321e7.png",
     "static/media/2s.png": "/satha-test/static/media/2s.0295b8bbd1197d8d21d3.png",
     "index.html": "/satha-test/index.html",
-    "main.86c6aae2.css.map": "/satha-test/static/css/main.86c6aae2.css.map",
-    "main.a4bf6870.js.map": "/satha-test/static/js/main.a4bf6870.js.map",
+    "main.65248d7d.css.map": "/satha-test/static/css/main.65248d7d.css.map",
+    "main.3ba2ebe7.js.map": "/satha-test/static/js/main.3ba2ebe7.js.map",
     "453.14756e09.chunk.js.map": "/satha-test/static/js/453.14756e09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86c6aae2.css",
-    "static/js/main.a4bf6870.js"
+    "static/css/main.65248d7d.css",
+    "static/js/main.3ba2ebe7.js"
   ]
 }
