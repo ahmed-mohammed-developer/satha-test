@@ -24,6 +24,9 @@ function Weexist() {
     { id: uuidv4(), name: ' سطحة الزلفي', phone: '0564686864'},
     { id: uuidv4(), name: ' سطحة الغاط ', phone:'0534555170' },
     { id: uuidv4(), name: 'سطحة القصيم الرياض ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة  الجله ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة المزاحمية ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة قصور المقبل ', phone:'0500686864' },
   ];
 
   return (
