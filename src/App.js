@@ -5,6 +5,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import Head from './components/Head/Head';
 import Features from './components/Features/Features'
 import Weexist from './components/Weexist/Weexist';
+import Why from './components/Why/Why';
 
 const theme = createTheme({
   typography: {
@@ -22,6 +23,7 @@ function App() {
       <Head />
       <Features />
       <Weexist />
+      <Why />
       </div>
     </ThemeProvider>
   );

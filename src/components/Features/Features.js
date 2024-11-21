@@ -64,7 +64,7 @@ const Features = () => {
                   <div className="step-iconfet mx-auto">
                     {item.icon} {/* استخدام الخاصية icon هنا */}
                   </div>
-                  <h5 className="card-title">{item.title}</h5>
+                  <h5 className="card-title titleservice">{item.title}</h5>
                 </div>
               </div>
             </div>

@@ -38,11 +38,12 @@
     transform: translateY(-10px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
-.setps .card-title {
-    font-family: "Tajawal";
+.titleservice {
+    font-family: "Tajawal" !important;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: 10px; /* مسافة أسفل العنوان */
+    line-height: 1.5;
 }
 .feature-icon.color{
     color: #121f3e;
