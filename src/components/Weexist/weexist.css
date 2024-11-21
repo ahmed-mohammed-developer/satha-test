@@ -1,30 +1,37 @@
 .background-section {
-    position: relative;
-    background-image: url('../images/33.jpeg'); /* استبدل بمسار صورتك */
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    height: 100vh; /* تأكد من تغطية القسم بالكامل */
-    overflow: auto; /* تمكين التمرير الداخلي */
-  }
-  
-  .overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(21, 67, 90, 0.785); /* إضافة خلفية تعتيمية مع شفافية */
-    z-index: 1; /* تأكد من أن التراكب فوق الصورة */
-  }
-  
-  .background-section div {
-    position: relative;
-    z-index: 2; /* تأكد من أن المحتوى فوق التراكب */
-    padding: 20px;
-    color: white; /* تغيير لون النص لضمان وضوحه على الصورة */
-    font-size: 24px;
-  }
-  
-  /* إضافة المزيد من المحتوى للتأكد من وجود تمرير */
-  
+  position: relative;
+  background-image: url('../images/333.png'); /* استبدل بمسار صورتك */
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  overflow: auto;
+  padding-block: 50px;
+  position: relative;
+  z-index: 1;
+}
+
+
+
+.titleexit {
+  color: #121f3e;
+  font-family: "Tajawal";
+  font-weight: 700;
+  font-size: 25px;
+}
+.call {
+  font-size: 20px;
+  color: white !important;
+  margin-right: 5px;
+  margin-bottom: 2px;
+}
+.btnwe {
+  background: linear-gradient(135deg, #1594ca, #15435a);
+  color: #fff;
+  font-family: 'Cairo', sans-serif; /* تأكد من إضافة نوع الخط كايرو */
+  font-weight: 800;
+}
+.btnwe:hover{
+  color: #fff;
+}

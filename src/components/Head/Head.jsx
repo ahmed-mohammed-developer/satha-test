@@ -1,5 +1,7 @@
 import React from 'react';
 import './head.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import Navbar from '../Navbar/Navbar';
 import MainTitle from '../MainTitle/MainTitle';
 import img from '../images/5.png';
