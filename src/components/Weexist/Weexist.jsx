@@ -27,6 +27,21 @@ function Weexist() {
     { id: uuidv4(), name: 'سطحة  الجله ', phone:'0500686864' },
     { id: uuidv4(), name: 'سطحة المزاحمية ', phone:'0500686864' },
     { id: uuidv4(), name: 'سطحة قصور المقبل ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة العيينة', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة الجبيلة ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة الدرعية ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة القرينة ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة حريملاء ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحت شقراء ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة الساحبه ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة البره ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة رغبه', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة ثادق ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة طريق القصيم', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة دقله ', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة نساح', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة الجدية', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة ضرماء', phone:'0500686864' },
   ];
 
   return (
