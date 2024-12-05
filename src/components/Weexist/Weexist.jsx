@@ -42,6 +42,9 @@ function Weexist() {
     { id: uuidv4(), name: 'سطحة نساح', phone:'0500686864' },
     { id: uuidv4(), name: 'سطحة الجدية', phone:'0500686864' },
     { id: uuidv4(), name: 'سطحة ضرماء', phone:'0500686864' },
+    { id: uuidv4(), name: 'سطحة الدمام', phone:'0550242411' },
+    { id: uuidv4(), name: 'سطحة الجبيل', phone:'0570709339' },
+    { id: uuidv4(), name: 'سطحة الخبر', phone:'0550242411' },
   ];
 
   return (
