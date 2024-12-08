@@ -31,6 +31,7 @@ const Footer = () => {
                         <a href="tel:0500686864"><p>سطحة الجله</p></a>
                         <a href="tel:0534555170"><p>سطحة ملهم</p></a>
                         <a href="tel:0570709339"><p>سطحة الدمام</p></a>
+                        <a href="tel:0550242411"><p>سطحة الأحساء</p></a>
                         <a href="tel:0564686864"><p className='marginBottom'>سطحة الحسي</p></a>
                     </div>
                 </div>
@@ -49,6 +50,7 @@ const Footer = () => {
                         <a href="tel:0500686864"><p>سطحة ثادق </p></a>
                         <a href="tel:0534555170"><p>سطحة عشيرة سدير</p></a>
                         <a href="tel:0570709339"><p>سطحة الجبيل</p></a>
+                        <a href="tel:0550242411"><p>سطحة بقيق</p></a>
                         <a href="tel:0500686864"><p className='marginBottom'>سطحة العتش</p></a>
                     </div>
                 </div>
@@ -67,6 +69,7 @@ const Footer = () => {
                         <a href="tel:0500686864"><p>سطحة العيينة</p></a>
                         <a href="tel:0534555170"><p>سطحة المجمعة</p></a>
                         <a href="tel:0550242411"><p>سطحة الخبر</p></a>
+                        <a href="tel:0570709339"><p>سطحة راس تنورة</p></a>
                         <a href="tel:0564686864"><p className='marginBottom'>سطحة التويم</p></a>
                     </div>
                 </div>

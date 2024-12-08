@@ -45,6 +45,9 @@ const Post = () => {
         { id: uuidv4(), name: 'سطحة الدمام', phone:'0550242411' },
         { id: uuidv4(), name: 'سطحة الجبيل', phone:'0570709339' },
         { id: uuidv4(), name: 'سطحة الخبر', phone:'0550242411' },
+        { id: uuidv4(), name: 'سطحة الأحساء', phone:'0570709339' },
+        { id: uuidv4(), name: 'سطحة رأس تنورة', phone:'0550242411' },
+        { id: uuidv4(), name: 'سطحة بقيق', phone:'0570709339' },
 
     ]
   return (
